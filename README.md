@@ -1,6 +1,6 @@
 # Sybau-Securly
-Onestop shop for securly removal needs.
-How to remove Securly on the #$%^#% Laptops:
+#Onestop shop for securly removal needs.
+#How to remove Securly on the #$%^#% Laptops:
   There are a few steps to this process:
     Step 1:
       Grab your Bitlocker key at https://aka.ms/myrecoverykey
