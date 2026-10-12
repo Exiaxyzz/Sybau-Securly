@@ -1,8 +1,8 @@
 ---
 
-Sybau-Securly
+Sybau-ss
 
-One-stop shop for all ur Securly removal needs.
+One-stop shop for all ur ss removal needs.
 
 ---
 
